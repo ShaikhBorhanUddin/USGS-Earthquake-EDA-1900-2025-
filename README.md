@@ -17,7 +17,7 @@ While several region-specific earthquake datasets exist — such as the Turkish 
 | **Best For**            | Global & comparative EDA   | Regional seismic focus | Regional hazard studies | Specialized research |
 | **Chosen For Project?** | **Yes**                    | No                     | No                      | No                   | 
 
-The USGS Global Earthquake Dataset provides the broadest, most consistent, and longest publicly available record of seismic activity. Its extensive temporal coverage (1900–2025) and standardized global reporting make it ideal for uncovering long-term trends and global-scale earthquake behavior. This enables richer insights across both time and geography, supporting research-grade EDA and global visualization. Summary of important columns of this dataset is given below. 
+The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquakes-around-the-world-from-1900-2025/data) provides the broadest, most consistent, and longest publicly available record of seismic activity. Its extensive temporal coverage (1900–2025) and standardized global reporting make it ideal for uncovering long-term trends and global-scale earthquake behavior. This enables richer insights across both time and geography, supporting research-grade EDA and global visualization. Summary of important columns of this dataset is given below. 
 
 | Column        | Description                                                              |
 | ------------- | ------------------------------------------------------------------------ |
