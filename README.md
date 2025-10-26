@@ -6,7 +6,7 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of global eart
 
 ## 🗂️ Dataset 
 
-While several region-specific earthquake datasets exist — such as the Turkish Earthquake Dataset (1914–2023), the Italian INGV Dataset, and the Stanford Earthquake Archive — the USGS Global Dataset stands out as the most suitable foundation for a comprehensive, long-term, and comparative exploratory analysis. 
+While several region-specific earthquake datasets exist — such as the Turkish Earthquake Dataset (1914–2023), the Italian INGV Dataset, and the Stanford Earthquake Archive — the [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquakes-around-the-world-from-1900-2025/data) stands out as the most suitable foundation for a comprehensive, long-term, and comparative exploratory analysis. 
 
 | **Aspect**              | **USGS Global Dataset**    | **Turkish Dataset**    | **Italian Dataset**     | **Stanford Dataset** |
 | ----------------------- | -------------------------- | ---------------------- | ----------------------- | -------------------- |
@@ -15,4 +15,25 @@ While several region-specific earthquake datasets exist — such as the Turkish 
 | **Data Source**         | USGS (authoritative)       | Kandilli Observatory   | INGV (Italy)            | Academic collection  |
 | **Standardization**     | High (consistent schema)   | Moderate               | Moderate                | Varies               |
 | **Best For**            | Global & comparative EDA   | Regional seismic focus | Regional hazard studies | Specialized research |
-| **Chosen For Project?** | **Yes**                    | No                     | No                      | No                 |
+| **Chosen For Project?** | **Yes**                    | No                     | No                      | No                   | 
+
+The USGS Global Earthquake Dataset provides the broadest, most consistent, and longest publicly available record of seismic activity. Its extensive temporal coverage (1900–2025) and standardized global reporting make it ideal for uncovering long-term trends and global-scale earthquake behavior. This enables richer insights across both time and geography, supporting research-grade EDA and global visualization. Summary of important columns of this dataset is given below. 
+
+| Column        | Description                                                              |
+| ------------- | ------------------------------------------------------------------------ |
+| **time**      | Timestamp of the earthquake occurrence (UTC).                            |
+| **latitude**  | Geographic coordinate (north–south position) of the epicenter.           |
+| **longitude** | Geographic coordinate (east–west position) of the epicenter.             |
+| **depth**     | Depth of the earthquake focus below the Earth’s surface (in km).         |
+| **mag**       | Earthquake magnitude, measured on the Richter or moment magnitude scale. |
+| **magType**   | Method used to calculate magnitude (e.g., mb, Mw, ML).                   |
+| **nst**       | Number of seismic stations that recorded the event.                      |
+| **gap**       | Azimuthal gap between stations (indicator of coverage quality).          |
+| **dmin**      | Horizontal distance from the nearest station (in degrees).               |
+| **rms**       | Root Mean Square (RMS) of travel time residuals.                         |
+| **place**     | Textual description of the nearest location or region.                   |
+| **type**      | Type of seismic event (e.g., earthquake, quarry blast, explosion).       |
+| **id**        | Unique event identifier.                                                 | 
+
+
+
