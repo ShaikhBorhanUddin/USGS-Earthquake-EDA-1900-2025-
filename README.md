@@ -19,21 +19,20 @@ While several region-specific earthquake datasets exist — such as the [Turkish
 
 The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquakes-around-the-world-from-1900-2025/data) provides the broadest, most consistent, and longest publicly available record of seismic activity. Its extensive temporal coverage (1900–2025) and standardized global reporting make it ideal for uncovering long-term trends and global-scale earthquake behavior. This enables richer insights across both time and geography, supporting research-grade EDA and global visualization. Summary of important columns of this dataset is given below. 
 
-| Column        | Description                                                              |
-| ------------- | ------------------------------------------------------------------------ |
-| **time**      | Timestamp of the earthquake occurrence (UTC).                            |
-| **latitude**  | Geographic coordinate (north–south position) of the epicenter.           |
-| **longitude** | Geographic coordinate (east–west position) of the epicenter.             |
-| **depth**     | Depth of the earthquake focus below the Earth’s surface (in km).         |
-| **mag**       | Earthquake magnitude, measured on the Richter or moment magnitude scale. |
-| **magType**   | Method used to calculate magnitude (e.g., mb, Mw, ML).                   |
-| **nst**       | Number of seismic stations that recorded the event.                      |
-| **gap**       | Azimuthal gap between stations (indicator of coverage quality).          |
-| **dmin**      | Horizontal distance from the nearest station (in degrees).               |
-| **rms**       | Root Mean Square (RMS) of travel time residuals.                         |
-| **place**     | Textual description of the nearest location or region.                   |
-| **type**      | Type of seismic event (e.g., earthquake, quarry blast, explosion).       |
-| **id**        | Unique event identifier.                                                 | 
+| **Column Name** | **Data Type**         | **Description**                                                                                             | **Example Value**     |
+| --------------- | --------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------- |
+| `DateTime`      | `datetime`            | Timestamp of the earthquake occurrence in UTC. Enables time-series and trend analysis.                      | `2023-02-06 01:17:35` |
+| `Latitude`      | `float`               | Geographic coordinate specifying the north–south position of the epicenter (in decimal degrees).            | `38.021`              |
+| `Longitude`     | `float`               | Geographic coordinate specifying the east–west position of the epicenter (in decimal degrees).              | `37.204`              |
+| `Depth`         | `float`               | Depth of the earthquake’s focus in kilometers below the surface. Helps analyze shallow vs deep earthquakes. | `10.0`                |
+| `Magnitude`     | `float`               | Earthquake’s magnitude (Richter, Mw, or Ms), indicating energy released. Used for intensity classification. | `7.8`                 |
+| `Type`          | `string`              | Type or classification of seismic event (e.g., Earthquake, Quarry Blast, Nuclear Explosion, Induced Event). | `Earthquake`          |
+| `Location`      | `string`              | Nearest known place or region name describing where the earthquake occurred.                                | `Southern Turkey`     |
+| `Country`       | `string`              | Country name derived from geographic coordinates or location metadata.                                      | `Turkey`              |
+| `Source`        | `string`              | Data provider or recording agency (typically USGS).                                                         | `USGS`                |
+| `Status`        | `string`              | Event verification status — indicates whether the event was reviewed or automatic.                          | `reviewed`            |
+
+
 
 
 
