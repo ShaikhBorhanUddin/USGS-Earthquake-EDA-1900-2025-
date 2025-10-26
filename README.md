@@ -42,7 +42,7 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 | `Location`      | `string`              | Nearest known place or region name describing where the earthquake occurred.                                | `Southern Turkey`     |
 | `Country`       | `string`              | Country name derived from geographic coordinates or location metadata.                                      | `Turkey`              |
 | `Source`        | `string`              | Data provider or recording agency (typically USGS).                                                         | `USGS`                |
-| `Status`        | `string`              | Event verification status — indicates whether the event was reviewed or automatic.                          | `reviewed`            |
+| `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            |
 
 
 
