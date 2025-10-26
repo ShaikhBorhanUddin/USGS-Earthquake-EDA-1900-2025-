@@ -6,4 +6,13 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of global eart
 
 ## 🗂️ Dataset 
 
-The project uses the [Earthquakes Around the World (1900–2025) dataset](https://www.kaggle.com/datasets/bwandowando/earthquakes-around-the-world-from-1900-2025/data) , compiled from the United States Geological Survey (USGS) global earthquake records. It provides a comprehensive record of worldwide seismic activity spanning over 125 years, covering diverse geological regions and magnitudes. Each record represents a single earthquake event and includes essential attributes that enable both temporal and spatial analysis.
+While several region-specific earthquake datasets exist — such as the Turkish Earthquake Dataset (1914–2023), the Italian INGV Dataset, and the Stanford Earthquake Archive — the USGS Global Dataset stands out as the most suitable foundation for a comprehensive, long-term, and comparative exploratory analysis. 
+
+| **Aspect**              | **USGS Global Dataset**    | **Turkish Dataset**    | **Italian Dataset**     | **Stanford Dataset** |
+| ----------------------- | -------------------------- | ---------------------- | ----------------------- | -------------------- |
+| **Geographic Scope**    | Worldwide                  | Turkey only            | Italy only              | Regionally limited   |
+| **Time Range**          | 1900–2025                  | 1914–2023              | 1985–present            | Varies               |
+| **Data Source**         | USGS (authoritative)       | Kandilli Observatory   | INGV (Italy)            | Academic collection  |
+| **Standardization**     | High (consistent schema)   | Moderate               | Moderate                | Varies               |
+| **Best For**            | Global & comparative EDA   | Regional seismic focus | Regional hazard studies | Specialized research |
+| **Chosen For Project?** | **Yes**                    | No                     | No                      | No                 |
