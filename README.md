@@ -49,11 +49,10 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/magnitude.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/monthly_frequency.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth_vs_mag.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/heatmap.png?raw=true)
 
 
 
