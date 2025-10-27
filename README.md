@@ -53,7 +53,9 @@ Line Chart: Yearly trend of earthquakes (time column → extract year).
 
 Line Chart (Stacked or Multi-line): Yearly average magnitude by continent or by type.
 
-Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic activity patterns.
+Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic activity patterns. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/yearly_trend.png?raw=true) 
 
 🕰️ 2. Time of Day & Month Patterns
 
@@ -71,7 +73,11 @@ Goal: Examine how earthquake depth relates to magnitude.
 
 Scatter Plot: depth vs mag, colored by type or continent.
 
-Correlation Heatmap: Include mag, depth, and rms (if available).
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth_vs_mag.png?raw=true) 
+
+Correlation Heatmap: Include mag, depth, and rms (if available). 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/heatmap.png?raw=true)
 
 🗺️ 4. Global Heatmap (Geospatial Visualization)
 
@@ -79,7 +85,9 @@ Goal: Visualize where earthquakes are concentrated geographically.
 
 Folium Map / Plotly Mapbox:
 
-Plot all earthquakes (latitude, longitude) sized by magnitude and colored by depth.
+Plot all earthquakes (latitude, longitude) sized by magnitude and colored by depth. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true) 
 
 Optionally, create a choropleth showing the average magnitude by country.
 
@@ -135,8 +143,6 @@ Anomaly Detection: Identify unusually shallow or deep strong earthquakes.
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/magnitude.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth_vs_mag.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/heatmap.png?raw=true)
 
 
 
