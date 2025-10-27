@@ -61,7 +61,9 @@ Goal: See if earthquakes have temporal concentration.
 
 Histogram: Distribution by hour of the day (convert UTC time → hour).
 
-Bar Chart: Monthly frequency of earthquakes across years.
+Bar Chart: Monthly frequency of earthquakes across years. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/monthly_frequency.png?raw=true)
 
 📊 3. Depth vs Magnitude Relationship
 
@@ -133,7 +135,6 @@ Anomaly Detection: Identify unusually shallow or deep strong earthquakes.
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/magnitude.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/monthly_frequency.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth_vs_mag.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/heatmap.png?raw=true)
 
