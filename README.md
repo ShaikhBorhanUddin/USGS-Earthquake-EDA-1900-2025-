@@ -45,6 +45,89 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 | `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            |
 
 ## Work on Progress 
+🌍 1. Temporal Analysis
+
+Goal: Understand how earthquake activity evolved over time.
+
+Line Chart: Yearly trend of earthquakes (time column → extract year).
+
+Line Chart (Stacked or Multi-line): Yearly average magnitude by continent or by type.
+
+Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic activity patterns.
+
+🕰️ 2. Time of Day & Month Patterns
+
+Goal: See if earthquakes have temporal concentration.
+
+Histogram: Distribution by hour of the day (convert UTC time → hour).
+
+Bar Chart: Monthly frequency of earthquakes across years.
+
+📊 3. Depth vs Magnitude Relationship
+
+Goal: Examine how earthquake depth relates to magnitude.
+
+Scatter Plot: depth vs mag, colored by type or continent.
+
+Correlation Heatmap: Include mag, depth, and rms (if available).
+
+🗺️ 4. Global Heatmap (Geospatial Visualization)
+
+Goal: Visualize where earthquakes are concentrated geographically.
+
+Folium Map / Plotly Mapbox:
+
+Plot all earthquakes (latitude, longitude) sized by magnitude and colored by depth.
+
+Optionally, create a choropleth showing the average magnitude by country.
+
+⚙️ 5. Magnitude and Depth Classification
+
+Goal: Categorize and summarize earthquake severity.
+
+Create bins (e.g., Minor: <4, Light: 4–5, Moderate: 5–6, Strong: 6–7, Major: 7+).
+
+Stacked Bar Chart: Number of earthquakes per category by continent or decade.
+
+🌐 6. Continent or Region-Level Insights
+
+Goal: Summarize seismic activity geographically.
+
+Treemap: Total number of earthquakes per continent → subdivided by country.
+
+Box Plot: Magnitude by continent.
+
+🧭 7. Top N Analyses
+
+Goal: Identify key outliers and extreme events.
+
+Table + Highlighted Bar: Top 10 strongest earthquakes (with date, place, magnitude, depth).
+
+Map Markers: Pin only top 10 earthquakes globally.
+
+⚠️ 8. Seismic Frequency Over Decades
+
+Goal: Observe change in detection and reporting.
+
+Bar Chart: Count of earthquakes per decade.
+
+Overlay Line: Mean magnitude per decade.
+
+🧩 9. Correlation and Statistical Summary
+
+Goal: Summarize numeric patterns.
+
+Pairplot (Seaborn): Show pairwise relationships among mag, depth, rms, etc.
+
+Correlation Matrix Heatmap.
+
+🧮 10. Advanced Insight (optional)
+
+Goal: Add analytical depth.
+
+Clustering (KMeans) of earthquakes based on mag, depth, latitude, longitude → to find seismic zones.
+
+Anomaly Detection: Identify unusually shallow or deep strong earthquakes.
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true)
