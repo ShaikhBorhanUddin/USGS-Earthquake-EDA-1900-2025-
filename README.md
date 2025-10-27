@@ -87,7 +87,7 @@ Folium Map / Plotly Mapbox:
 
 Plot all earthquakes (latitude, longitude) sized by magnitude and colored by depth. 
 
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true) 
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map_new.png?raw=true) 
 
 Optionally, create a choropleth showing the average magnitude by country.
 
