@@ -93,7 +93,11 @@ Optionally, create a choropleth showing the average magnitude by country.
 
 ⚙️ 5. Magnitude and Depth Classification
 
-Goal: Categorize and summarize earthquake severity.
+Goal: Categorize and summarize earthquake severity. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true) 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/magnitude.png?raw=true) 
 
 Create bins (e.g., Minor: <4, Light: 4–5, Moderate: 5–6, Strong: 6–7, Major: 7+).
 
@@ -101,7 +105,9 @@ Stacked Bar Chart: Number of earthquakes per category by continent or decade.
 
 🌐 6. Continent or Region-Level Insights
 
-Goal: Summarize seismic activity geographically.
+Goal: Summarize seismic activity geographically. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true) 
 
 Treemap: Total number of earthquakes per continent → subdivided by country.
 
@@ -121,7 +127,7 @@ Goal: Observe change in detection and reporting.
 
 Bar Chart: Count of earthquakes per decade.
 
-Overlay Line: Mean magnitude per decade.
+Overlay Line: Mean magnitude per decade. 
 
 🧩 9. Correlation and Statistical Summary
 
@@ -138,10 +144,7 @@ Goal: Add analytical depth.
 Clustering (KMeans) of earthquakes based on mag, depth, latitude, longitude → to find seismic zones.
 
 Anomaly Detection: Identify unusually shallow or deep strong earthquakes.
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/depth.png?raw=true)
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/magnitude.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true)
 
 
