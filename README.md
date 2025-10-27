@@ -45,7 +45,7 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 | `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            |
 
 ## Work on Progress 
-
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/continent.png?raw=true)
 
 
 
