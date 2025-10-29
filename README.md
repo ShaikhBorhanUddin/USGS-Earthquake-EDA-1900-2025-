@@ -42,7 +42,12 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 | `Location`      | `string`              | Nearest known place or region name describing where the earthquake occurred.                                | `Southern Turkey`     |
 | `Country`       | `string`              | Country name derived from geographic coordinates or location metadata.                                      | `Turkey`              |
 | `Source`        | `string`              | Data provider or recording agency (typically USGS).                                                         | `USGS`                |
-| `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            |
+| `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            | 
+
+Some values have significant amount of missing values. These are visualized in the following bar chart. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
+
 
 ## Work on Progress 
 🌍 1. Temporal Analysis
@@ -158,7 +163,6 @@ Goal: Add analytical depth.
 Clustering (KMeans) of earthquakes based on mag, depth, latitude, longitude → to find seismic zones.
 
 Anomaly Detection: Identify unusually shallow or deep strong earthquakes.
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/world_map.png?raw=true)
 
 
