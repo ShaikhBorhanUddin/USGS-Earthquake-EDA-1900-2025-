@@ -105,7 +105,9 @@ Goal: Categorize and summarize earthquake severity.
 
 Create bins (e.g., Minor: <4, Light: 4–5, Moderate: 5–6, Strong: 6–7, Major: 7+).
 
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/earthquake_category.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/earthquake_category.png?raw=true) 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/top_10_highest_magnitude.png?raw=true) 
 
 
 Stacked Bar Chart: Number of earthquakes per category by continent or decade.
