@@ -129,6 +129,8 @@ Map Markers: Pin only top 10 earthquakes globally.
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/top_10_highest_magnitude.png?raw=true) 
 
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/top_10_with_time.png?raw=true) 
+
 ⚠️ 8. Seismic Frequency Over Decades
 
 Goal: Observe change in detection and reporting.
