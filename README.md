@@ -57,6 +57,8 @@ Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/yearly_trend.png?raw=true) 
 
+![dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/5_year_rolling_avg_count.png?raw=true)  
+
 🕰️ 2. Time of Day & Month Patterns
 
 Goal: See if earthquakes have temporal concentration.
