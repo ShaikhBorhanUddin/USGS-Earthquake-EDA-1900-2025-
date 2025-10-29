@@ -143,9 +143,13 @@ Overlay Line: Mean magnitude per decade.
 
 Goal: Summarize numeric patterns.
 
-Pairplot (Seaborn): Show pairwise relationships among mag, depth, rms, etc.
+Pairplot (Seaborn): Show pairwise relationships among mag, depth, rms, etc. 
 
-Correlation Matrix Heatmap.
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/pairplot.png?raw=true) 
+
+Correlation Matrix Heatmap. 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/heatmap_numerical.png?raw=true)
 
 🧮 10. Advanced Insight (optional)
 
