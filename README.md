@@ -57,6 +57,9 @@ Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/yearly_trend.png?raw=true) 
 
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/5_year_rolling_avg.jpg?raw=true) 
+
+
 
 🕰️ 2. Time of Day & Month Patterns
 
