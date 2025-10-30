@@ -90,7 +90,14 @@ The frequency of earthquakes has changed dramatically over the past century. Fro
   <img src="Images/magnitude.png" alt="Magnitude" width="50.5%" />
 </p> 
 
-The graphs show that earthquakes occur most frequently at very shallow depths, especially in the −10 to 16 km range. The presence of negative depth values indicates that many of these events happen extremely close to the Earth’s surface, sometimes even slightly above the reference level used for measuring depth. As depth increases, the frequency of earthquakes declines sharply, showing that deep earthquakes are much less common. Similarly, for magnitudes, the highest number of earthquakes occurs within the 0–2 magnitude range, but this also includes many events with slightly negative magnitudes. These negative-magnitude earthquakes are extremely small, often only detectable by instruments. The frequency drops steadily as the magnitude increases, with large earthquakes (above magnitude 6) being very rare. Overall, the data reveal that the most common earthquakes are both shallow (often near or just above the reference surface) and of very low magnitude, meaning that most seismic activity worldwide consists of tiny, surface-level tremors.
+The graphs show that earthquakes occur most frequently at very shallow depths, especially in the −10 to 16 km range. The presence of negative depth values indicates that many of these events happen extremely close to the Earth’s surface, sometimes even slightly above the reference level used for measuring depth. As depth increases, the frequency of earthquakes declines sharply, showing that deep earthquakes are much less common. Similarly, for magnitudes, the highest number of earthquakes occurs within the 0–2 magnitude range, but this also includes many events with slightly negative magnitudes. These negative-magnitude earthquakes are extremely small, often only detectable by instruments. The frequency drops steadily as the magnitude increases, with large earthquakes (above magnitude 6) being very rare. Overall, the data reveal that the most common earthquakes are both shallow (often near or just above the reference surface) and of very low magnitude, meaning that most seismic activity worldwide consists of tiny, surface-level tremors. 
+
+⚠️ **Which range of earthquake magnitudes occurs most often?** 
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/earthquake_category.png?raw=true) 
+
+
+
 
 
 
