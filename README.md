@@ -77,7 +77,10 @@ Rolling Average (e.g., 5-year): Smooth the time trend to show long-term seismic 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/5_year_rolling_avg.jpg?raw=true) 
 
-
+<p align="center">
+  <img src="Images/yearly_trend.png" alt="Average Valuation by Industry" width="52%" />
+  <img src="Images/5_year_rolling_avg.jpg" alt="Top Funding-to-Valuation Ratios" width="47.1%" />
+</p>
 
 🕰️ 2. Time of Day & Month Patterns
 
