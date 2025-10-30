@@ -69,8 +69,8 @@ The analysis focuses on answering key questions such as:
 The global earthquake distribution analysis from 1900 to 2025 reveals that seismic activity is highly concentrated along major tectonic plate boundaries, especially within the Pacific Ring of Fire. North America recorded the highest number of earthquakes, largely due to the high-frequency events in Alaska, the western United States, and along the Rocky Mountain region. Significant seismic clusters were also observed across the Andes Mountains in South America, the coastal regions of Japan, the South China Sea, the Indochinese Peninsula, and parts of Central and Southern Europe — all of which lie near active plate boundaries. Oceanic zones such as the Bismarck Sea, Philippine Sea, and other subduction zones around the Pacific were particularly active, highlighting the strong relationship between tectonic interactions and earthquake frequency. In contrast, vast inland regions like mainland Canada, central Russia, and much of Africa exhibited relatively low seismic activity, while Antarctica remained the least affected continent. Although the “place” column in the dataset contains detailed location descriptors (e.g., “Yakutat Bay, Alaska” or “Bismarck Sea”), extracting specific country-level information from over four million records would require extensive geocoding computations. Therefore, this analysis emphasizes continental and regional patterns rather than individual country counts. 
 
 <p align="center">
-  <img src="Images/world_map.png" alt="Average Valuation by Industry" width="52%" />
-  <img src="Images/continent.png" alt="Top Funding-to-Valuation Ratios" width="47.1%" />
+  <img src="Images/world_map_new.png" alt="World Map" width="45.2%" />
+  <img src="Images/continent.png" alt="Continent" width="53%" />
 </p>
 ## Work on Progress 
 🌍 1. Temporal Analysis
