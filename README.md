@@ -61,18 +61,7 @@ The objective of this project is to analyze over 125 years of global earthquake 
 | **🧩 Is there a relation between earthquake depth and magnitude?**                                                                  | Evaluates correlations between how deep an earthquake originates and its intensity, providing insight into subsurface dynamics. |
 | **🌋 What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?**                              | Highlights extreme seismic events, offering historical context and emphasizing global impact zones.                             |
 
-
-The analysis focuses on answering key questions such as:
-
-- Which regions and countries experience the most earthquakes?
-
-- How has earthquake frequency changed over time?
-
-- What is the relationship between magnitude and depth?
-
-- Which types of earthquakes are most common and most destructive?
-
-- Are there observable global or regional patterns in seismic intensity?
+The questions are addressed in the following section, which includes visual illustrations to support the explanations. 
 
 ## 📊 Key Exploratory Analyses 
 
