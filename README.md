@@ -46,8 +46,21 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 
 Some columns have significant amount of missing values. These are visualized in the following bar chart. 
 
-![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
+![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true) 
 
+## 🔍 Objectives
+
+The analysis focuses on answering key questions such as:
+
+- Which regions and countries experience the most earthquakes?
+
+- How has earthquake frequency changed over time?
+
+- What is the relationship between magnitude and depth?
+
+- Which types of earthquakes are most common and most destructive?
+
+- Are there observable global or regional patterns in seismic intensity?
 
 ## Work on Progress 
 🌍 1. Temporal Analysis
