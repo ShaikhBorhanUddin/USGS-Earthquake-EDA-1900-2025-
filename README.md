@@ -78,7 +78,7 @@ The global earthquake distribution analysis from 1900 to 2025 reveals that seism
 <p align="center">
   <img src="Images/yearly_trend.png" alt="Yearly Trend" width="32%" />
   <img src="Images/5_year_rolling_avg.jpg" alt="5 Year Rolling Average" width="32%" />
-  <img src="Images/monthly_frequency.png" alt="Monthly Frequency" width="32%" />
+  <img src="Images/monthly_frequency.png" alt="Monthly Frequency" width="33.5%" />
 </p>  
 
 The frequency of earthquakes has changed dramatically over the past century. From 1900 to about 1970, the recorded number of earthquakes was very low, largely because of limited global coverage and the lack of advanced seismic monitoring equipment. As technology improved and seismic networks expanded worldwide after the 1970s, there was a noticeable and steady increase in the number of recorded earthquakes. This upward trend continued into the 2000s, reaching its peak around 2015–2020, before showing a slight decline in recent years. The 5-year rolling average graph clearly illustrates this overall long-term growth and helps smooth out short-term fluctuations, confirming that the apparent surge is part of a consistent trend rather than random variation. The monthly frequency analysis also reveals seasonal differences, with July experiencing the highest number of earthquakes and February the lowest, although such variations are relatively modest compared to the broader upward trend over the decades. Overall, the data suggests that the observed increase in earthquake frequency is largely due to improved detection and reporting capabilities rather than a sudden rise in global seismic activity.
