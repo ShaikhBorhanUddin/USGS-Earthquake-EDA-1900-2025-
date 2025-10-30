@@ -64,7 +64,7 @@ The analysis focuses on answering key questions such as:
 
 ## 📊 Key Exploratory Analyses 
 
-🌍 Which regions and countries experience the most earthquakes? 
+🌍 **Which regions and countries experience the most earthquakes?** 
 
 <p align="center">
   <img src="Images/world_map_new.png" alt="World Map" width="45.2%" />
