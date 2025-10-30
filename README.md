@@ -48,7 +48,17 @@ Some columns have significant amount of missing values. These are visualized in 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true) 
 
-## 🔍 Objectives
+## 🔍 Objectives 
+
+| 🔍 **Research Question**                                                                                                            | 🌎 **Significance / Analytical Goal**                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **🌍 Which regions and countries experience the most earthquakes?**                                                                 | Identifies global earthquake hotspots and tectonically active zones to understand regional seismic risk.                        |
+| **🕰️ How has earthquake frequency changed over time?**                                                                             | Analyzes temporal trends to detect whether earthquake activity has increased, decreased, or remained stable over decades.       |
+| **📏 At what depths do earthquakes occur most frequently, and are low-magnitude earthquakes more common than high-magnitude ones?** | Explores the depth and strength distribution of earthquakes to understand crustal stress behavior and common earthquake types.  |
+| **⚠️ Which range of earthquake magnitudes occurs most often?**                                                                      | Determines the most frequent magnitude range to assess the global scale of seismic energy release.                              |
+| **🧩 Is there a relation between earthquake depth and magnitude?**                                                                  | Evaluates correlations between how deep an earthquake originates and its intensity, providing insight into subsurface dynamics. |
+| **🌋 What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?**                              | Highlights extreme seismic events, offering historical context and emphasizing global impact zones.                             |
+
 
 The analysis focuses on answering key questions such as:
 
