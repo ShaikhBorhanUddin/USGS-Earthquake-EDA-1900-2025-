@@ -77,7 +77,7 @@ The global earthquake distribution analysis from 1900 to 2025 reveals that seism
 
 <p align="center">
   <img src="Images/yearly_trend.png" alt="Yearly Trend" width="32%" />
-  <img src="Images/5_year_rolling_avg.png" alt="5 Year Rolling Average" width="32%" />
+  <img src="Images/5_year_rolling_avg.jpg" alt="5 Year Rolling Average" width="32%" />
   <img src="Images/monthly_frequency.png" alt="Monthly Frequency" width="32%" />
 </p>  
 
