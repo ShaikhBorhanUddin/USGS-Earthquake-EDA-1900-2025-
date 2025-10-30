@@ -86,7 +86,7 @@ The frequency of earthquakes has changed dramatically over the past century. Fro
 📏 **At what depths do earthquakes occur most frequently, and are low-magnitude earthquakes more common than high-magnitude ones?** 
 
 <p align="center">
-  <img src="Images/depth.png" alt="Depth" width="48%" />
+  <img src="Images/depth.png" alt="Depth" width="48.9%" />
   <img src="Images/magnitude.png" alt="Magnitude" width="50.5%" />
 </p> 
 
