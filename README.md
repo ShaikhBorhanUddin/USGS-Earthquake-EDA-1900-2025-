@@ -1,7 +1,7 @@
 # USGS Global Earthquake Exploratory Data Analysis (1900-2025) 
 <p align="left">
   <img src="https://img.shields.io/badge/Made%20With-Colab-blue?logo=googlecolab&logoColor=white&label=Made%20With" alt="Made with Colab">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20Folium-yellow?logo=python&logoColor=white" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20GeoPandas-yellow?logo=python&logoColor=white" alt="Data Visualization">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Repo Size">
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Last Commit">
