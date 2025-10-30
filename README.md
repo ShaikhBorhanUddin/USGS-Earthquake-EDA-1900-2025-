@@ -98,7 +98,7 @@ The graphs show that earthquakes occur most frequently at very shallow depths, e
 
 The graph shows that minor earthquakes, those with magnitudes below 4, occur far more frequently than any other category. They make up the vast majority of recorded seismic events, with over 3.7 million occurrences. In contrast, light earthquakes (magnitude 4–5) are much less common, and the frequency continues to decline sharply for moderate (5–6), strong (6–7), and major (7+) earthquakes. This pattern highlights that small, low-magnitude earthquakes dominate global seismic activity, while large, destructive ones are relatively rare. 
 
-
+🧩 **Is there a relation between earthquake depth and magnitude?**
 
 Both scatterplots show that earthquake depth does not have a strong or consistent relationship with magnitude. In both the original (left) and adjusted (right) plots, data points are widely dispersed across all depths and magnitudes, without a clear linear or curvilinear trend. Most earthquakes cluster around moderate magnitudes (3–6) and shallow to intermediate depths (0–200 km), while deeper quakes occur across a similar magnitude range. Even after setting negative magnitudes to zero in the adjusted graph, the overall distribution remains largely unchanged—indicating that while large earthquakes can occur at various depths, magnitude and depth appear largely independent in this dataset.
 
