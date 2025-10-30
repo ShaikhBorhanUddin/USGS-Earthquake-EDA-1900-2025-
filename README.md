@@ -111,7 +111,7 @@ Both scatterplots show that earthquake depth does not have a strong or consisten
   <img src="Images/top_10_with_time.png" alt="Top 10 With Time" width="47.1%" />
 </p> 
 
-
+The maps illustrate global earthquake locations and their corresponding magnitudes and times of the strongest earthquakes ever recorded last 125 years. The most powerful event documented is the **1960 Great Chilean (Valdivia) Earthquake**, which reached a magnitude of **9.5**, followed by the **1964 Prince William Sound Earthquake** in Alaska at **9.2**. Other significant quakes include the 2004 Sumatra–Andaman Islands and the 2011 Great Tohoku earthquakes, both measuring 9.1 in magnitude. The list also mentions a projected event, the 2025 Kamchatka Peninsula earthquake in Russia, estimated at a magnitude of 8.8.
 
 ## Work on Progress 
 🌍 1. Temporal Analysis
