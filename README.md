@@ -44,7 +44,7 @@ The [USGS Global Dataset](https://www.kaggle.com/datasets/bwandowando/earthquake
 | `Source`        | `string`              | Data provider or recording agency (typically USGS).                                                         | `USGS`                |
 | `Status`        | `string`              | Event verification status (indicates whether the event was reviewed or automatic)                           | `reviewed`            | 
 
-Some values have significant amount of missing values. These are visualized in the following bar chart. 
+Some columns have significant amount of missing values. These are visualized in the following bar chart. 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true)
 
