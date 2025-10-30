@@ -96,6 +96,8 @@ The graphs show that earthquakes occur most frequently at very shallow depths, e
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/earthquake_category.png?raw=true) 
 
+The graph shows that minor earthquakes, those with magnitudes below 4, occur far more frequently than any other category. They make up the vast majority of recorded seismic events, with over 3.7 million occurrences. In contrast, light earthquakes (magnitude 4–5) are much less common, and the frequency continues to decline sharply for moderate (5–6), strong (6–7), and major (7+) earthquakes. This pattern highlights that small, low-magnitude earthquakes dominate global seismic activity, while large, destructive ones are relatively rare. 
+
 
 
 
