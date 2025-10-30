@@ -114,7 +114,7 @@ The graph shows that minor earthquakes, those with magnitudes below 4, occur far
 
 Both scatterplots show that earthquake depth does not have a strong or consistent relationship with magnitude. In both the original (left) and adjusted (right) plots, data points are widely dispersed across all depths and magnitudes, without a clear linear or curvilinear trend. Most earthquakes cluster around moderate magnitudes (3–6) and shallow to intermediate depths (0–200 km), while deeper quakes occur across a similar magnitude range. Even after setting negative magnitudes to zero in the adjusted graph, the overall distribution remains largely unchanged; indicating that while large earthquakes can occur at various depths, magnitude and depth appear largely independent in this dataset.
 
-🌍 **What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?** 
+🌋 **What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?** 
 
 <p align="center">
   <img src="Images/top_10_highest_magnitude.png" alt="top 10 Highest Magnitude" width="49.7%" />
