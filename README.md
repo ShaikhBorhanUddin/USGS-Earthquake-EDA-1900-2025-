@@ -48,7 +48,9 @@ Some columns have significant amount of missing values. These are visualized in 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/null_values.png?raw=true) 
 
-## 🔍 Objectives 
+## 🎯 Objectives 
+
+The objective of this project is to analyze over 125 years of global earthquake data to uncover spatial, temporal, and geological patterns that define seismic behavior across the world. The following table outlines the key research questions and their analytical significance: 
 
 | 🔍 **Research Question**                                                                                                            | 🌎 **Significance / Analytical Goal**                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
