@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/EDA-of-Nigerian-Road-Traffic-Crashes-2020-2024" alt="Issues">
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
-  <img src="https://img.shields.io/badge/Project-Ongoing-blueviolet" alt="Project Status">
+  <img src="https://img.shields.io/badge/Project-Completed-green" alt="Project Status">
 </p>
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Earthquake-EDA-1900-2025-/blob/main/Images/earthquake_new.png?raw=true) 
