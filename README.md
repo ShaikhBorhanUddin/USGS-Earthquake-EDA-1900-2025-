@@ -122,7 +122,7 @@ This exploratory data analysis provides meaningful insights into global earthqua
 
 This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, and distribution with attribution. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, provided that the original copyright and license notice are included in all copies or substantial portions of the software.
 
-For more details, refer to the [Licence](https://github.com/ShaikhBorhanUddin/Customer-Sentiment-Analysis-in-Streatham-Area-Restaurants/blob/main/Licence) file in this repository.
+For more details, refer to the [Licence](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/LICENSE) file in this repository.
 
 ## 🤝 Contact
 
