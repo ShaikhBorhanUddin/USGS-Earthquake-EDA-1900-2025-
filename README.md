@@ -1,7 +1,7 @@
 # USGS Global Earthquake Exploratory Data Analysis (1900-2025) 
 <p align="left">
-  <img src="https://img.shields.io/badge/Made%20With-Colab-blue?logo=googlecolab&logoColor=white&label=Made%20With" alt="Made with Colab">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-yellow?logo=python&logoColor=white" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Made%20With-Colab%20Pro-blue?logo=googlecolab&logoColor=white&label=Made%20With" alt="Made with Colab Pro">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20GeoPandas-yellow?logo=python&logoColor=white" alt="Data Visualization">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025" alt="Repo Size">
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025" alt="Last Commit">
@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
   <img src="https://img.shields.io/badge/Project-Completed-green" alt="Project Status">
-</p> 
+</p>
+
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Earthquake-EDA-1900-2025-/blob/main/Images/earthquake_new.png?raw=true) 
 ## 🌍 Project Overview
