@@ -61,7 +61,7 @@ The objective of this project is to analyze over 125 years of global earthquake 
 | **🧩 Is there a relation between earthquake depth and magnitude?**                                                                  | Evaluates correlations between how deep an earthquake originates and its intensity, providing insight into subsurface dynamics. |
 | **🌋 What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?**                              | Highlights extreme seismic events, offering historical context and emphasizing global impact zones.                             |
 
-The questions are addressed in the following section, which includes visual illustrations to support the explanations. 
+The questions are addressed in the following section, which includes visual illustrations to support the explanations. For Python codes and outputs are also available in the [Link](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Notebooks/USGS_earthquake_EDA.ipynb)
 
 ## 📊 Key Exploratory Analyses 
 
