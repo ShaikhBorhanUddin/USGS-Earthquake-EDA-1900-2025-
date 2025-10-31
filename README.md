@@ -118,6 +118,12 @@ The maps illustrate global earthquake locations and their corresponding magnitud
 
 This exploratory data analysis provides meaningful insights into global earthquake behavior, but several limitations should be acknowledged. Approximately 164,000 entries in the dataset have missing values in the magnitude (mag) column, which may slightly distort magnitude-based summaries and statistical distributions. The dataset contains over 4.3 million earthquake records, making it computationally intensive to extract precise country information from latitude and longitude coordinates; as a result, country-level visualizations were not generated. In addition, earthquake data prior to the 1970s is sparse and inconsistently reported, which can lead to misleading interpretations when examining long-term temporal trends. Some entries also have limited precision in their coordinate data, reducing spatial accuracy during global mapping. The massive dataset size demands significant memory and processing resources, restricting the ability to perform advanced spatial or interactive analyses in standard environments. Finally, variations in measurement systems for magnitude and depth across different reporting periods may introduce minor inconsistencies when comparing global seismic activity over the full 125-year timeline. 
 
+## 🧾 Licence
+
+This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, and distribution with attribution. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, provided that the original copyright and license notice are included in all copies or substantial portions of the software.
+
+For more details, refer to the [Licence](https://github.com/ShaikhBorhanUddin/Customer-Sentiment-Analysis-in-Streatham-Area-Restaurants/blob/main/Licence) file in this repository.
+
 ## 🤝 Contact
 
 If you have any questions or would like to connect, feel free to reach out!
