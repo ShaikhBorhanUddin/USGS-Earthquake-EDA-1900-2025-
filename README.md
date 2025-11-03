@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025" alt="Issues">
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
-  <img src="https://img.shields.io/badge/Project-Completed-green" alt="Project Status">
+  <img src="https://img.shields.io/badge/Project-Completed-blue" alt="Project Status">
 </p>
 
 
