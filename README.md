@@ -66,7 +66,7 @@ The questions are addressed in the following section, which includes visual illu
 
 ## 📊 Key Exploratory Analyses 
 
-🌍 **Which regions and countries experience the most earthquakes?** 
+### 🌍 **Which regions and countries experience the most earthquakes?** 
 
 <p align="center">
   <img src="Images/world_map_new.png" alt="World Map" width="45.2%" />
@@ -75,7 +75,7 @@ The questions are addressed in the following section, which includes visual illu
 
 The global earthquake distribution analysis from 1900 to 2025 reveals that seismic activity is highly concentrated along major tectonic plate boundaries, especially within the Pacific Ring of Fire. North America recorded the highest number of earthquakes, largely due to the high-frequency events in Alaska, the western United States, and along the Rocky Mountain region. Significant seismic clusters were also observed across the Andes Mountains in South America, the coastal regions of Japan, the South China Sea, the Indochinese Peninsula, and parts of Central and Southern Europe; all of which lie near active plate boundaries. Oceanic zones such as the Bismarck Sea, Philippine Sea, and other subduction zones around the Pacific were particularly active, highlighting the strong relationship between tectonic interactions and earthquake frequency. In contrast, vast inland regions like mainland Canada, Brazil, central Russia, and much of Africa exhibited relatively low seismic activity, while Antarctica remained the least affected continent. Although the **`place`** column in the dataset contains detailed location descriptors (e.g., “Yakutat Bay, Alaska” or “Bismarck Sea”), extracting specific country-level information from over four million records would require extensive geocoding computations. Therefore, this analysis emphasizes continental and regional patterns rather than individual country counts. 
 
-🕰️ **How has earthquake frequency changed over time?** 
+### 🕰️ **How has earthquake frequency changed over time?** 
 
 <p align="center">
   <img src="Images/yearly_trend.png" alt="Yearly Trend" width="32%" />
@@ -85,7 +85,7 @@ The global earthquake distribution analysis from 1900 to 2025 reveals that seism
 
 The frequency of earthquakes has changed dramatically over the past century. From 1900 to about 1970, the recorded number of earthquakes was very low, largely because of limited global coverage and the lack of advanced seismic monitoring equipment. As technology improved and seismic networks expanded worldwide after the 1970s, there was a noticeable and steady increase in the number of recorded earthquakes. This upward trend continued into the 2000s, reaching its peak around 2015–2020, before showing a slight decline in recent years. The 5-year rolling average graph clearly illustrates this overall long-term growth and helps smooth out short-term fluctuations, confirming that the apparent surge is part of a consistent trend rather than random variation. The monthly frequency analysis also reveals seasonal differences, with July experiencing the highest number of earthquakes and February the lowest, although such variations are relatively modest compared to the broader upward trend over the decades. Overall, the data suggests that the observed increase in earthquake frequency is largely due to improved detection and reporting capabilities rather than a sudden rise in global seismic activity. 
 
-📏 **At what depths do earthquakes occur most frequently, and are low-magnitude earthquakes more common than high-magnitude ones?** 
+### 📏 **At what depths do earthquakes occur most frequently, and are low-magnitude earthquakes more common than high-magnitude ones?** 
 
 <p align="center">
   <img src="Images/depth.png" alt="Depth" width="48.9%" />
@@ -94,7 +94,7 @@ The frequency of earthquakes has changed dramatically over the past century. Fro
 
 The graphs show that earthquakes occur most frequently at very shallow depths, especially in the −10 to 16 km range. The presence of negative depth values indicates that many of these events happen extremely close to the Earth’s surface, sometimes even slightly above the reference level used for measuring depth. As depth increases, the frequency of earthquakes declines sharply, showing that deep earthquakes are much less common. Similarly, for magnitudes, the highest number of earthquakes occurs within the 0–2 magnitude range, but this also includes many events with slightly negative magnitudes. These negative-magnitude earthquakes are extremely small, often only detectable by instruments. The frequency drops steadily as the magnitude increases, with large earthquakes (above magnitude 6) being very rare. Overall, the data reveal that the most common earthquakes are both shallow (often near or just above the reference surface) and of very low magnitude, meaning that most seismic activity worldwide consists of tiny, surface-level tremors. 
 
-⚠️ **Which range of earthquake magnitudes occurs most often?** 
+### ⚠️ **Which range of earthquake magnitudes occurs most often?** 
 
 <p align="left">
   <img src="Images/earthquake_category.png" alt="Depth" width="55%" />
@@ -102,13 +102,13 @@ The graphs show that earthquakes occur most frequently at very shallow depths, e
 
 The graph shows that minor earthquakes, those with magnitudes below 4, occur far more frequently than any other category. They make up the vast majority of recorded seismic events, with over 3.7 million occurrences. In contrast, light earthquakes (magnitude 4–5) are much less common, and the frequency continues to decline sharply for moderate (5–6), strong (6–7), and major (7+) earthquakes. This pattern highlights that small, low-magnitude earthquakes dominate global seismic activity, while large, destructive ones are relatively rare. 
 
-🧩 **Is there a relation between earthquake depth and magnitude?** 
+### 🧩 **Is there a relation between earthquake depth and magnitude?** 
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/USGS-Global-Earthquake-Exploratory-Data-Analysis-1900-2025/blob/main/Images/pairplot_depth_vs_magnitude.png?raw=true) 
 
 Both scatterplots show that earthquake depth does not have a strong or consistent relationship with magnitude. In both the original (left) and adjusted (right) plots, data points are widely dispersed across all depths and magnitudes, without a clear linear or curvilinear trend. Most earthquakes cluster around moderate magnitudes (3–6) and shallow to intermediate depths (0–200 km), while deeper quakes occur across a similar magnitude range. Even after setting negative magnitudes to zero in the adjusted graph, the overall distribution remains largely unchanged; indicating that while large earthquakes can occur at various depths, magnitude and depth appear largely independent in this dataset.
 
-🌋 **What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?** 
+### 🌋 **What are the ten most powerful earthquakes that have occurred on Earth over the past 125 years?** 
 
 <p align="center">
   <img src="Images/top_10_highest_magnitude.png" alt="top 10 Highest Magnitude" width="49.7%" />
